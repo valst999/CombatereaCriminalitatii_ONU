@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Influenta Substantelor Chimice Asupra Gandirii Umane</title>
+    <link rel="icon" href="http://hgmgames.com/Utility_Uploads/Chimie/logo.png">
+    
+    <style type="text/css">
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#video-bg-elem {
+	top: 0;
+	left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+#animation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+    overflow: hidden;
+    background-color: rgba(0, 0, 46);
+    position: fixed;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #000066;
+}
+
+.active {
+    background-color: #0094ff;
+}
+        div#load_screen {
+            background : #000;
+            opacity : 1;
+            position : fixed;
+            z-index : 10;
+            top : 0px;
+            left : 0px;
+            width : 100%;
+            height : 100%;
+        }
+
+        div#load_screen > div#loading {
+            color : #FFF;
+            width : 300px;
+            height : 24px;
+            margin : 300px auto;
+        }
+
+        #loadingicon {
+            width: 50px;
+            height: 50px;
+            border: 5px solid #ffffff;
+            border-top-color: #ff6a00;
+            border-radius: 100%;
+            animation: round 1s linear infinite;
+        }
+        @keyframes round {
+            from {transform: rotate(0deg)}
+            to {transform: rotate(360deg)}
+        }    
+        #devider{
+            background-color: #00002E;
+            width: 100%;
+            height: 50px;
+            margin: 0px;
+        }
+       #hpvideo {
+           background-color: #00002E;
+       }
+       #frontmenutxt {
+           position: absolute;
+           margin-top: 45%;
+           margin-left: 1em;
+       }
+       #frontmenutxt2 {
+           position: absolute;
+           margin-top: 48%;
+           margin-left: 1em;
+       }
+       .paralax {
+           background: url("paralaximg.jpg") repeat fixed 100%;
+       }
+       .paralax-inner {
+           padding-top: 16%;
+           padding-bottom: 14%;
+       }
+       .paralax1 {
+           background: url("bitdefender.png") repeat fixed 100%;
+           opacity: 0.7;
+           transition: opacity .5s ease-out;
+       }
+       .paralax1:hover {
+           background: url("bitdefender.png") repeat fixed 100%;
+           opacity: 0.2;
+       }
+       .paralax-inner1 {
+           padding-top: 30%;
+           padding-bottom: 30%;
+       }
+       .main {
+           background: #00002E;
+           padding-top: 5%;
+           padding-left: 7%;
+           padding-right: 3%;
+       }
+       #proverb {
+           font-style: italic;
+       }
+       #neuron {
+           -webkit-transform: skew(353deg);
+       }
+       #sinapsa {
+           -webkit-transform: skew(353deg);
+       }
+       #alchool {
+           -webkit-transform: skew(353deg);
+       }
+       #infotxt1 {
+           margin-left: 4%;
+       }
+       #infotxt2 {
+           margin-left: 4%;
+       }
+       #infotxt3 {
+            margin-left: 4%;
+       }
+       #intunecare {
+           background-color: rgba(0, 0, 46, 1);
+       }
+               .register {
+            margin: 50px auto;
+            display: block;
+            width: 260px;
+            height: 50px;
+            border: 3px solid white;
+            background-color: rgba(255,255,255,0);
+            color: white;
+            font-family: sans-serif;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 1000ms, color 1000ms;
+            -webkit-transform: skew(353deg);
+        }
+
+            .register:hover {
+                background-color: rgb(255, 0, 0);
+                color: #222;
+                cursor: pointer;
+                transition: background-color 1000ms, color 1000ms;
+            }
+        .staticitems {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            z-index: 20;
+            overflow: hidden;
+            position : fixed;
+            width: 100%;
+			height : 150px;
+			margin-top : 40%;
+	
+}
+		#audio {
+			display: none;
+		}
+		.sound {
+	background: url("volumeplay2.png");
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+	float: right;
+	width: 150px;
+	height : 100%;
+}
+.sound:hover {
+	transform: scale(1.1);
+	transition-duration: 0.2s;
+}
+#titlu {
+	float: left;
+	color: white;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+
+</style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script>
+        window.addEventListener("load", function () {
+            var load_screen = document.getElementById("load_screen");
+            $(document).ready(function () {
+                $("#load_screen").fadeTo(600, 0);
+                function remove () {
+                    $("#load_screen").remove();
+                }
+                window.setTimeout(remove, 600 );
+            })
+        })
+
+    </script>
+    <script>
+        var yPos;
+        var ok;
+        ok = 0;
+            function yScroll() {
+                yPos = window.pageYOffset;
+                if (yPos >250) {
+                    if (ok==0)
+                        $("#animation").fadeTo("fast", 0.78);
+                    ok = 1;
+                }
+                if (yPos < 250) {
+                    if (ok==1)
+                        $("#animation").fadeTo("fast", 1);
+                    ok = 0;
+                }
+            }
+            window.addEventListener("scroll", yScroll);
+    </script>
+    	<script>
+		var a = 0;
+		var b = 0;
+
+		function audio() {
+			if (b%2==0) {
+				$('#audio').prop("volume", 0);
+			}
+			else {
+				$('#audio').prop("volume", 1);
+			}
+			b = b + 1;
+		}
+	</script>
+</head>
+<body>
+    
+    <audio id="audio" controls autoplay loop>
+        <source src="bgmusic.ogg" type="audio/ogg">
+    </audio> 
+    <div id="load_screen"><div id="loading"><center><h1>Site-ul se incarca</h1><div id="loadingicon"></div></center></div></div>
+    <ul id="animation">
+	<div id="titlu"><h1 onclick="window.location.href = 'index.html'">About Bitdefender</h1></div>
+  <li style="float:right"><a class="active" href="antivirusul.html">Bitdefender</a></li>
+  <li style="float:right"><a  href="homepage.html">Acasa</a></li>
+    </ul>
+    <div class="staticitems"><div class="sound"><img src="Empty.png" alt="Sound" height="150" width="150" onclick="audio()"></div></div>
+        
+    <div id="hpvideo">
+            
+            <video id="video-bg-elem" preload="auto" autoplay="true" loop="loop">
+                <source src="bgvid1.mp4" type="video/mp4">
+            </video>
+    </div>
+
+    <nav id="devider">
+
+    </nav>
+    <section class="paralax">
+        <div class="paralax-inner">
+            <font size="4" color="white"><paragraph id="proverb"><center>„De vrei pace, pregateste-te de razboi”</center></paragraph></font>
+        </div>
+    </section>
+    <section class="main">
+        <table style="width:100%">
+            <tr>
+                <td>
+                    <img id="neuron" height="250" width="370" src="bg4.jpeg"></img>
+                </td>
+                
+                <td>
+                    <p>
+                        <br>
+                        <br>
+                    </p>
+                    <p>
+                        <br>
+                        <br>
+                    </p>
+                    <section id="infotxt1">
+                        <paragraph><font color="white" size="6"><b>Istoric</b></font></paragraph>
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <paragraph><font color="white" size="4">In anul 2001 AntiVirus eXpert devine Bitdefender, ca urmare a unei campanii de rebranding, în noiembrie. "Antivirus is not enough; Bitdefender: secure your every bit." In anul 2003 ca urmare a tendintei de dezvoltare, Bitdefender îsi deschide primele filiale în Spania si Germania. In anul 2006 Bitdefender are o crestere a vânzãrilor de 70% iar solutiile sale sunt prezente în peste 5000 de mari magazine de pe cele 6 continente. In anul 20013 Bitdefender Antivirus primeste titlul "Product of the Year" din partea AV-Comparatives. In anul 2015 Bitdefender câstigã premiul "Product of the Year" în testele AV-Comparatives pentru a doua oarã, pentru rezultate remarcabile în protectie, utilizare si impact minim asupra resurselor calculatorului.</font></paragraph>
+                        <button class="register" onclick="window.location.href = 'https://ro.wikipedia.org/wiki/Neuron'">
+                            <h1>Vezi mai mult</h1>
+                        </button>
+
+                    </section>
+                </td>
+
+
+            </tr>
+            <tr>
+                <td>
+                    <img id="neuron" height="250" width="370" src="img8.jpg"></img>
+                </td>
+                <td>
+                    <section id="infotxt2">
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <paragraph><font color="white" size="6"><b>Cum functioneaza</b></font></paragraph>
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <paragraph><font color="white" size="4">Bitdefender, are o baza de date ce contine semnatura digitala a fiecarui virus cunoscut pentru a-l putea identifica si preveni rapid. De asemenea, daca un fisier sau un program are un comportament suspect acesta este pus sub carantina. De asemenea, pentru a proteja utilizatorul de site-uri cu intentii rele, antivirusul afiseaza informatii dintr-o baza de date privind site-ul. Totodata acesta previne rularea programelor javascript ce acceseaza informatii de pe statiul de stocare. Ce face acest antivirus atat de eficient este algoritmul de adaptare.</font></paragraph>
+                        <button class="register" onclick="window.location.href = 'https://ro.wikipedia.org/wiki/Sinaps%C4%83'">
+                            <h1>Vezi mai mult</h1>
+                        </button>
+                    </section>
+                </td>
+
+
+            </tr>
+            <tr>
+                <td>
+                    <img id="neuron" height="250" width="370" src="img9.jpg"></img
+                </td>
+                 <td>
+
+                    <section id="infotxt3">
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <paragraph><font color="white" size="6"><b>Ce ofera</b></font></paragraph>
+                        <p>
+                            <br>
+                            <br>
+                        </p>
+                        <paragraph><font color="white" size="4">Acest pachet ofera unul dintre cele mai eficiente antivirusuri ce se poate adapta cerintele utilizatorului, fiind foarte flexibil. Totodata acesta ofera un sistem de control al activitatilor celor mici, un sistem antifurt, un VPN si program de incriptie incorporate si un browser gandit pentru tranzactiile online sigure.</font></paragraph>
+                        <button class="register" onclick="window.location.href = 'http://www.creeaza.com/referate/biologie/Influenta-unor-substante-toxic838.php'">
+                            <h1>Vezi mai mult</h1>
+                        </button>
+                    </section>
+                </td>
+
+            </tr>
+            
+
+        </table>
+        
+
+        
+    </section>
+    <section id="intunecare">
+        <section class="paralax1">
+            <div class="paralax-inner1">
+                <center></center>
+            </div>
+        </section>
+    </section>
+
+</body>
+</html>

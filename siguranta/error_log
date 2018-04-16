@@ -1,0 +1,1405 @@
+[14-May-2017 13:57:59 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 13:57:59 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:01:01 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:01:01 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:06:43 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:06:43 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:06:43 Europe/Bucharest] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/raducu/public_html/Utility_Uploads/Test/signup.php:173) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 175
+[14-May-2017 22:06:43 Europe/Bucharest] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/raducu/public_html/Utility_Uploads/Test/signup.php:173) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 175
+[14-May-2017 22:10:05 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:10:05 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:11:02 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:11:02 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:11:02 Europe/Bucharest] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/raducu/public_html/Utility_Uploads/Test/signup.php:173) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 175
+[14-May-2017 22:11:02 Europe/Bucharest] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/raducu/public_html/Utility_Uploads/Test/signup.php:173) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 175
+[14-May-2017 22:12:45 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:12:45 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:12:45 Europe/Bucharest] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/raducu/public_html/Utility_Uploads/Test/signup.php:3) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 5
+[14-May-2017 22:12:45 Europe/Bucharest] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/raducu/public_html/Utility_Uploads/Test/signup.php:3) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 5
+[14-May-2017 22:13:27 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:13:27 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:15:13 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[14-May-2017 22:15:13 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:43:51 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:43:52 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:47:46 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:47:46 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:47:49 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:47:49 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:47:49 Europe/Bucharest] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/raducu/public_html/Utility_Uploads/Test/signin.php:151) in /home2/raducu/public_html/Utility_Uploads/Test/signin.php on line 153
+[15-May-2017 17:48:18 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 17:48:18 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 21:44:45 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[15-May-2017 21:44:45 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 18:22:01 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 18:22:01 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:24:29 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:24:29 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:24:34 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:24:34 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:24:56 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:24:56 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:25:01 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:25:01 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:25:42 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:25:42 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:25:46 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:25:46 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:27:05 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-May-2017 19:27:05 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:31:36 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:31:36 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:31:47 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:31:47 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:34:35 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:34:35 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:55:39 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 13:55:39 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:01:25 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:01:25 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:02:37 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:02:37 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:02:42 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:02:42 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:03:10 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:03:10 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:03:23 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:03:23 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:03:56 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-May-2017 14:03:56 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 10:29:00 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 10:29:00 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 12:24:43 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 12:24:43 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:49:35 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:49:35 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:49:57 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:49:57 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:50:00 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:50:00 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:52:17 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:52:17 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:54:19 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:54:19 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:54:36 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:54:36 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:54:37 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[18-May-2017 20:54:37 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-May-2017 13:54:56 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[19-May-2017 13:54:56 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-May-2017 11:15:03 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-May-2017 11:15:03 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-May-2017 12:38:02 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[20-May-2017 12:38:02 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-May-2017 13:35:07 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[22-May-2017 13:35:07 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[26-May-2017 10:57:58 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[26-May-2017 10:57:58 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[26-May-2017 12:32:52 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[26-May-2017 12:32:52 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[26-May-2017 13:04:26 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[26-May-2017 13:04:26 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[31-May-2017 23:55:02 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[31-May-2017 23:55:02 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:01:57 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:01:57 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:32:08 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:32:08 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:32:08 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'raducu'@'gator4111.hostgator.com' (using password: YES) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 7
+[05-Jun-2017 01:33:14 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:33:14 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:33:34 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:33:34 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:33:48 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:33:48 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:33:54 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:33:54 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:34:08 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:34:08 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:34:38 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:34:38 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:34:50 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:34:50 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:35:21 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 7
+[05-Jun-2017 01:35:21 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'raducu'@'gator4111.hostgator.com' (using password: YES) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 7
+[05-Jun-2017 01:37:29 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 7
+[05-Jun-2017 01:37:29 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'raducu'@'gator4111.hostgator.com' (using password: YES) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 7
+[05-Jun-2017 01:37:29 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'raducu'@'gator4111.hostgator.com' (using password: YES) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 7
+[05-Jun-2017 01:42:29 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:42:29 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:42:29 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'raducu'@'gator4111.hostgator.com' (using password: YES) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 01:42:38 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:42:38 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 01:44:46 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:21:45 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:21:45 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:21:45 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '192.184.4.123:3306' (0) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:21:58 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:21:58 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:23:51 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:23:51 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:24:05 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:26:13 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:30:42 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:30:42 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:32:49 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:34:05 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:34:05 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:36:13 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:45:50 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:45:50 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:47:58 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.184.4.123' (110) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:49:42 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:49:42 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:49:42 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'raducu'@'gator4111.hostgator.com' (using password: YES) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:50:26 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:50:26 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:50:27 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '192.185.4.123:3306' (0) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:50:49 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:50:49 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:50:49 Europe/Bucharest] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'raducu'@'gator4111.hostgator.com' (using password: YES) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 13:51:07 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 13:51:07 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 14:36:55 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 14:36:55 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 14:41:37 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 14:41:37 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:01:39 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:01:39 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:02:35 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:02:35 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:03:41 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:03:41 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:04:29 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:04:29 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:04:40 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:04:40 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:04:59 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:04:59 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:04:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '=' in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 18
+[05-Jun-2017 15:05:09 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:05:09 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:06:25 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:06:25 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:06:28 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:06:28 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:07:01 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:07:01 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:07:32 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:07:32 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:07:38 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:07:38 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:08:25 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:08:25 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:53:37 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:53:37 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:53:37 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '&' in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 26
+[05-Jun-2017 15:54:53 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:54:53 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:54:53 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '&' in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 26
+[05-Jun-2017 15:55:30 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:55:30 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:55:30 Europe/Bucharest] PHP Warning:  copy(image/4bf5e21f4fe697e4_155785803.jpg.xxxlarge_2x.jpg): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 15:58:10 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:10 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:10 Europe/Bucharest] PHP Warning:  copy(image/4bf5e21f4fe697e4_155785803.jpg.xxxlarge_2x.jpg): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 15:58:31 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:31 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:39 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:39 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:49 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:49 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:58:49 Europe/Bucharest] PHP Warning:  copy(image/4bf5e21f4fe697e4_155785803.jpg.xxxlarge_2x.jpg): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 15:59:31 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:59:31 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 15:59:31 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 16:00:52 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:00:52 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:00:52 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 16:01:15 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:01:15 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:01:15 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '192.185' (T_DNUMBER) in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 6
+[05-Jun-2017 16:01:31 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:01:31 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:01:31 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 16:02:00 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:02:00 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:03:23 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:03:23 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:12:45 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:12:45 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:13:06 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:13:06 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:15:07 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:15:07 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:15:43 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:15:43 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 16:15:43 Europe/Bucharest] PHP Warning:  copy(image/4bf5e21f4fe697e4_155785803.jpg.xxxlarge_2x.jpg): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 21:29:30 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 21:29:30 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 21:32:32 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 21:32:32 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 21:33:25 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 21:33:25 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:05:13 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:05:13 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:05:54 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:05:54 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:05:54 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:09:04 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:09:04 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:09:04 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:11:33 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:11:33 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:11:33 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:12:35 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:12:35 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:12:35 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:12:59 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:12:59 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:12:59 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:13:07 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:13:07 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:15:18 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:15:18 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:15:18 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:15:50 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:15:50 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:15:50 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:16:00 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:16:00 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:16:00 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:16:31 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:16:31 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:16:31 Europe/Bucharest] PHP Warning:  copy(image/1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:17:14 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:17:14 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:21:30 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:21:30 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:22:06 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:22:06 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:22:06 Europe/Bucharest] PHP Warning:  copy(image/Screenshot_1.png): failed to open stream: No such file or directory in /home2/raducu/public_html/Utility_Uploads/Test/signup.php on line 21
+[05-Jun-2017 23:45:58 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:45:58 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:46:04 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:46:04 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:46:12 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:46:12 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:46:34 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jun-2017 23:46:34 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:21:03 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:21:03 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:22:11 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:22:11 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:27:44 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:27:44 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:28:04 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:28:04 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:29:18 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:29:18 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:31:41 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:31:41 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:39:26 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:39:26 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:41:27 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:41:27 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:41:47 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:41:47 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:42:09 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:42:09 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:43:21 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:43:21 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:44:26 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:44:26 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:44:56 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jun-2017 00:44:56 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Aug-2017 18:22:32 Europe/Bucharest] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[24-Aug-2017 18:22:32 Europe/Bucharest] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0

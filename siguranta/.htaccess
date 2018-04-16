@@ -1,0 +1,5 @@
+# BEGIN custom php.ini PHP54
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home2/raducu/public_html/Utility_Uploads/Test
+</IfModule>
+# END custom php.ini
